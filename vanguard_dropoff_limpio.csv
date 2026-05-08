@@ -1,0 +1,9 @@
+process_step,Variation,Drop_off_Rate_%
+start,Control,13.87
+step_1,Control,7.46
+step_2,Control,6.59
+step_3,Control,11.41
+start,Test,9.04
+step_1,Test,8.28
+step_2,Test,6.18
+step_3,Test,10.51
